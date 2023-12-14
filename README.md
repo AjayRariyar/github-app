@@ -1,6 +1,6 @@
 # Github App
 
-![semple](src/image/img1.jpg.jpg)
+<img src="img1.jpg" height="300px" width="100px">
 
 # feature
 
