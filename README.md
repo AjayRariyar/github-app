@@ -1,6 +1,6 @@
 # Github App
 
-<img src="img2.pg.jpg" height="300px" width="1000px">
+<img src="src/image/img1.jpg.jpg" height="300px" width="1000px">
 
 # feature
 
